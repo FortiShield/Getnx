@@ -1,0 +1,5 @@
+{
+  "name": "getnx-monorepo",
+  "types": "./global.d.ts",
+  "private": true
+}
